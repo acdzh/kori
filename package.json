@@ -1,0 +1,22 @@
+{
+  "name": "kori",
+  "version": "1.0.0",
+  "description": "a sample router handle for function.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acdzh/kori.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "router"
+  ],
+  "author": "acdzh",
+  "license": "MIT",
+  "dependencies": {
+    "qs": "^6.9.4",
+    "url-parse": "^1.4.7"
+  }
+}
